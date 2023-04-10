@@ -9,6 +9,9 @@
 	position: relative;
 }
 
+nav, footer { background-color:rgb(25,25,25); }
+
+
 /*edited versions of bootstrap outline buttons to each color*/
 .btn-outline-red {
 	--bs-btn-color: #dc3545;
